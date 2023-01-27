@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/bin/Debug/net6.0/Example012_threenumbers
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/bin/Debug/net6.0/Example012_threenumbers.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/bin/Debug/net6.0/Example012_threenumbers.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/bin/Debug/net6.0/Example012_threenumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/bin/Debug/net6.0/Example012_threenumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/refint/Example012_threenumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/Example012_threenumbers.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example012_threenumbers/obj/Debug/net6.0/ref/Example012_threenumbers.dll

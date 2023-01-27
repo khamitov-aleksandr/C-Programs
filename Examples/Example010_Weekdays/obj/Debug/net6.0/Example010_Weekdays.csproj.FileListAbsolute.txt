@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/bin/Debug/net6.0/Example010_Weekdays
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/bin/Debug/net6.0/Example010_Weekdays.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/bin/Debug/net6.0/Example010_Weekdays.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/bin/Debug/net6.0/Example010_Weekdays.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/bin/Debug/net6.0/Example010_Weekdays.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/refint/Example010_Weekdays.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/Example010_Weekdays.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example010_Weekdays/obj/Debug/net6.0/ref/Example010_Weekdays.dll

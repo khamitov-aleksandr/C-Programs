@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/bin/Debug/net6.0/Example009_issqr
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/bin/Debug/net6.0/Example009_issqr.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/bin/Debug/net6.0/Example009_issqr.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/bin/Debug/net6.0/Example009_issqr.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/bin/Debug/net6.0/Example009_issqr.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/refint/Example009_issqr.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/Example009_issqr.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example009_issqr/obj/Debug/net6.0/ref/Example009_issqr.dll
