@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/bin/Debug/net6.0/Example013_minmax
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/bin/Debug/net6.0/Example013_minmax.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/bin/Debug/net6.0/Example013_minmax.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/bin/Debug/net6.0/Example013_minmax.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/bin/Debug/net6.0/Example013_minmax.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/refint/Example013_minmax.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/Example013_minmax.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example013_minmax/obj/Debug/net6.0/ref/Example013_minmax.dll

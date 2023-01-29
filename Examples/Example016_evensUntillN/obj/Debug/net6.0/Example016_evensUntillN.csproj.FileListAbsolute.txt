@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/bin/Debug/net6.0/Example016_evensUntillN
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/bin/Debug/net6.0/Example016_evensUntillN.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/bin/Debug/net6.0/Example016_evensUntillN.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/bin/Debug/net6.0/Example016_evensUntillN.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/bin/Debug/net6.0/Example016_evensUntillN.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/refint/Example016_evensUntillN.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/Example016_evensUntillN.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example016_evensUntillN/obj/Debug/net6.0/ref/Example016_evensUntillN.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/bin/Debug/net6.0/Example014_maxfromthree
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/bin/Debug/net6.0/Example014_maxfromthree.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/bin/Debug/net6.0/Example014_maxfromthree.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/bin/Debug/net6.0/Example014_maxfromthree.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/bin/Debug/net6.0/Example014_maxfromthree.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/refint/Example014_maxfromthree.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/Example014_maxfromthree.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example014_maxfromthree/obj/Debug/net6.0/ref/Example014_maxfromthree.dll

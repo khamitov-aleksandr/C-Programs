@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/bin/Debug/net6.0/Example015_isEven
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/bin/Debug/net6.0/Example015_isEven.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/bin/Debug/net6.0/Example015_isEven.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/bin/Debug/net6.0/Example015_isEven.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/bin/Debug/net6.0/Example015_isEven.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/refint/Example015_isEven.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/Example015_isEven.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example015_isEven/obj/Debug/net6.0/ref/Example015_isEven.dll

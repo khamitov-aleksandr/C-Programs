@@ -8,9 +8,9 @@ int max = a;
 
 if  (a > max) max = a;
 if  (b > max) max = b;
-if  (c > max) max = a;
-if  (d > max) max = a;
-if  (e > max) max = a;
+if  (c > max) max = c;
+if  (d > max) max = d;
+if  (e > max) max = e;
 
 Console.Write("Write = ");
 Console.WriteLine(max);
