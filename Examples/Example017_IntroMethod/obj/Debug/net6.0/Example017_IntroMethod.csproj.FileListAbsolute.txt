@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/bin/Debug/net6.0/Example017_IntroMethod
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/bin/Debug/net6.0/Example017_IntroMethod.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/bin/Debug/net6.0/Example017_IntroMethod.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/bin/Debug/net6.0/Example017_IntroMethod.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/bin/Debug/net6.0/Example017_IntroMethod.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/refint/Example017_IntroMethod.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/Example017_IntroMethod.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example017_IntroMethod/obj/Debug/net6.0/ref/Example017_IntroMethod.dll
