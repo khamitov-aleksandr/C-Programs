@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/bin/Debug/net6.0/Example022_deleteSecondDigit
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/bin/Debug/net6.0/Example022_deleteSecondDigit.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/bin/Debug/net6.0/Example022_deleteSecondDigit.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/bin/Debug/net6.0/Example022_deleteSecondDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/bin/Debug/net6.0/Example022_deleteSecondDigit.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/refint/Example022_deleteSecondDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/Example022_deleteSecondDigit.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example022_deleteSecondDigit/obj/Debug/net6.0/ref/Example022_deleteSecondDigit.dll

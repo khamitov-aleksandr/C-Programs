@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/bin/Debug/net6.0/Example024_multiple7and23
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/bin/Debug/net6.0/Example024_multiple7and23.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/bin/Debug/net6.0/Example024_multiple7and23.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/bin/Debug/net6.0/Example024_multiple7and23.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/bin/Debug/net6.0/Example024_multiple7and23.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/refint/Example024_multiple7and23.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/Example024_multiple7and23.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example024_multiple7and23/obj/Debug/net6.0/ref/Example024_multiple7and23.dll

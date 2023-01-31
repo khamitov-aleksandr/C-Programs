@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/bin/Debug/net6.0/Example021_maxDigit
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/bin/Debug/net6.0/Example021_maxDigit.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/bin/Debug/net6.0/Example021_maxDigit.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/bin/Debug/net6.0/Example021_maxDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/bin/Debug/net6.0/Example021_maxDigit.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/refint/Example021_maxDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/Example021_maxDigit.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example021_maxDigit/obj/Debug/net6.0/ref/Example021_maxDigit.dll

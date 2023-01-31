@@ -7,8 +7,7 @@ Console.WriteLine("Write third number: ");
 int thirdnumber = int.Parse(Console.ReadLine()!);
 int max = firstnumber;
 
-if  (firstnumber > max) max = firstnumber;
-if  (secondnumber > max) max = secondnumber;
-if  (thirdnumber > max) max = thirdnumber;
+if (secondnumber > max) max = secondnumber;
+if (thirdnumber > max) max = thirdnumber;
 
 Console.WriteLine(max);

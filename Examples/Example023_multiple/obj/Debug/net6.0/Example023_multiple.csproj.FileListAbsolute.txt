@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/bin/Debug/net6.0/Example023_multiple
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/bin/Debug/net6.0/Example023_multiple.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/bin/Debug/net6.0/Example023_multiple.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/bin/Debug/net6.0/Example023_multiple.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/bin/Debug/net6.0/Example023_multiple.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/refint/Example023_multiple.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/Example023_multiple.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example023_multiple/obj/Debug/net6.0/ref/Example023_multiple.dll

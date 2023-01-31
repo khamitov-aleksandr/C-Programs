@@ -30,6 +30,7 @@ else if (number == 7)
 {
     Console.WriteLine("Sunday");
 }
-else {
+else
+{
     Console.WriteLine("Write another number");
 }
