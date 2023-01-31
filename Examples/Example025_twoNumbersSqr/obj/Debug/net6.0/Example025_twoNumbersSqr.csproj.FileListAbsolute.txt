@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/bin/Debug/net6.0/Example025_twoNumbersSqr
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/bin/Debug/net6.0/Example025_twoNumbersSqr.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/bin/Debug/net6.0/Example025_twoNumbersSqr.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/bin/Debug/net6.0/Example025_twoNumbersSqr.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/bin/Debug/net6.0/Example025_twoNumbersSqr.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/refint/Example025_twoNumbersSqr.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/Example025_twoNumbersSqr.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example025_twoNumbersSqr/obj/Debug/net6.0/ref/Example025_twoNumbersSqr.dll

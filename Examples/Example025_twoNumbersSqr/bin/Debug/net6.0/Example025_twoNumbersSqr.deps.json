@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example025_twoNumbersSqr/1.0.0": {
+        "runtime": {
+          "Example025_twoNumbersSqr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example025_twoNumbersSqr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/bin/Debug/net6.0/Example027_thirdDigit
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/bin/Debug/net6.0/Example027_thirdDigit.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/bin/Debug/net6.0/Example027_thirdDigit.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/bin/Debug/net6.0/Example027_thirdDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/bin/Debug/net6.0/Example027_thirdDigit.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/refint/Example027_thirdDigit.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/Example027_thirdDigit.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example027_thirdDigit/obj/Debug/net6.0/ref/Example027_thirdDigit.dll

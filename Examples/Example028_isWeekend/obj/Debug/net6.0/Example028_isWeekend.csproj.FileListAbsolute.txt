@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/bin/Debug/net6.0/Example028_isWeekend
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/bin/Debug/net6.0/Example028_isWeekend.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/bin/Debug/net6.0/Example028_isWeekend.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/bin/Debug/net6.0/Example028_isWeekend.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/bin/Debug/net6.0/Example028_isWeekend.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/refint/Example028_isWeekend.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/Example028_isWeekend.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example028_isWeekend/obj/Debug/net6.0/ref/Example028_isWeekend.dll
