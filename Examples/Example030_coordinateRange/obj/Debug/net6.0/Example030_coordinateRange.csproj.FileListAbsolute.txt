@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/bin/Debug/net6.0/Example030_coordinateRange
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/bin/Debug/net6.0/Example030_coordinateRange.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/bin/Debug/net6.0/Example030_coordinateRange.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/bin/Debug/net6.0/Example030_coordinateRange.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/bin/Debug/net6.0/Example030_coordinateRange.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/refint/Example030_coordinateRange.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/Example030_coordinateRange.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example030_coordinateRange/obj/Debug/net6.0/ref/Example030_coordinateRange.dll

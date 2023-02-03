@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example033_palindromoma/1.0.0": {
+        "runtime": {
+          "Example033_palindromoma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example033_palindromoma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

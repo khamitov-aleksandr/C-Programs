@@ -1,4 +1,4 @@
-﻿// input 2 numbers and check is first number is sqr 
+﻿// input 2 numbers and check is first number is sqr
 
 Console.WriteLine("Write number one ");
 int firstnumber = int.Parse(Console.ReadLine()!);

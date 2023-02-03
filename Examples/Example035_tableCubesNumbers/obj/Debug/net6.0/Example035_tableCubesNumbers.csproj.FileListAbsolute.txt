@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/bin/Debug/net6.0/Example035_tableCubesNumbers
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/bin/Debug/net6.0/Example035_tableCubesNumbers.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/bin/Debug/net6.0/Example035_tableCubesNumbers.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/bin/Debug/net6.0/Example035_tableCubesNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/bin/Debug/net6.0/Example035_tableCubesNumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/refint/Example035_tableCubesNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/Example035_tableCubesNumbers.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example035_tableCubesNumbers/obj/Debug/net6.0/ref/Example035_tableCubesNumbers.dll

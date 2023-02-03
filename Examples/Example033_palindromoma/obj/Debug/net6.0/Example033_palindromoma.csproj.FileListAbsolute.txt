@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/bin/Debug/net6.0/Example033_palindromoma
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/bin/Debug/net6.0/Example033_palindromoma.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/bin/Debug/net6.0/Example033_palindromoma.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/bin/Debug/net6.0/Example033_palindromoma.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/bin/Debug/net6.0/Example033_palindromoma.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/refint/Example033_palindromoma.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/Example033_palindromoma.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example033_palindromoma/obj/Debug/net6.0/ref/Example033_palindromoma.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/bin/Debug/net6.0/Example032_tableSquaresNumbers
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/bin/Debug/net6.0/Example032_tableSquaresNumbers.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/bin/Debug/net6.0/Example032_tableSquaresNumbers.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/bin/Debug/net6.0/Example032_tableSquaresNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/bin/Debug/net6.0/Example032_tableSquaresNumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/refint/Example032_tableSquaresNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/Example032_tableSquaresNumbers.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example032_tableSquaresNumbers/obj/Debug/net6.0/ref/Example032_tableSquaresNumbers.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/bin/Debug/net6.0/Example029_quarterNumber
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/bin/Debug/net6.0/Example029_quarterNumber.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/bin/Debug/net6.0/Example029_quarterNumber.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/bin/Debug/net6.0/Example029_quarterNumber.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/bin/Debug/net6.0/Example029_quarterNumber.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/refint/Example029_quarterNumber.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/Example029_quarterNumber.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example029_quarterNumber/obj/Debug/net6.0/ref/Example029_quarterNumber.dll

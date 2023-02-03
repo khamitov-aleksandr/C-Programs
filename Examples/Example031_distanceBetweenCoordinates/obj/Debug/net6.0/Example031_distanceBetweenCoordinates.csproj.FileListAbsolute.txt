@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/bin/Debug/net6.0/Example031_distanceBetweenCoordinates
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/bin/Debug/net6.0/Example031_distanceBetweenCoordinates.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/bin/Debug/net6.0/Example031_distanceBetweenCoordinates.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/bin/Debug/net6.0/Example031_distanceBetweenCoordinates.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/bin/Debug/net6.0/Example031_distanceBetweenCoordinates.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/refint/Example031_distanceBetweenCoordinates.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/Example031_distanceBetweenCoordinates.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example031_distanceBetweenCoordinates/obj/Debug/net6.0/ref/Example031_distanceBetweenCoordinates.dll
