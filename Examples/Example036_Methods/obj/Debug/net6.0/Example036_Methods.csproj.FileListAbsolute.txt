@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/bin/Debug/net6.0/Example036_Methods
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/bin/Debug/net6.0/Example036_Methods.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/bin/Debug/net6.0/Example036_Methods.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/bin/Debug/net6.0/Example036_Methods.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/bin/Debug/net6.0/Example036_Methods.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/refint/Example036_Methods.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/Example036_Methods.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example036_Methods/obj/Debug/net6.0/ref/Example036_Methods.dll

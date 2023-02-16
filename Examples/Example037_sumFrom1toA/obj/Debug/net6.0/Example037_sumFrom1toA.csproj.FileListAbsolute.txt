@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/bin/Debug/net6.0/Example037_sumFrom1toA
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/bin/Debug/net6.0/Example037_sumFrom1toA.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/bin/Debug/net6.0/Example037_sumFrom1toA.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/bin/Debug/net6.0/Example037_sumFrom1toA.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/bin/Debug/net6.0/Example037_sumFrom1toA.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/refint/Example037_sumFrom1toA.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/Example037_sumFrom1toA.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example037_sumFrom1toA/obj/Debug/net6.0/ref/Example037_sumFrom1toA.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example037_sumFrom1toA/1.0.0": {
+        "runtime": {
+          "Example037_sumFrom1toA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example037_sumFrom1toA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
