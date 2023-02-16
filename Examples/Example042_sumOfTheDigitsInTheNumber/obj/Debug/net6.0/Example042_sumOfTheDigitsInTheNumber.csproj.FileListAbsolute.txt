@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/bin/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/bin/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/bin/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/bin/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/bin/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/refint/Example042_sumOfTheDigitsInTheNumber.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/Example042_sumOfTheDigitsInTheNumber.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example042_sumOfTheDigitsInTheNumber/obj/Debug/net6.0/ref/Example042_sumOfTheDigitsInTheNumber.dll

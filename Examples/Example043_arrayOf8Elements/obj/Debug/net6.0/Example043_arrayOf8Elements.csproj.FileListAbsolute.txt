@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/bin/Debug/net6.0/Example043_arrayOf8Elements
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/bin/Debug/net6.0/Example043_arrayOf8Elements.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/bin/Debug/net6.0/Example043_arrayOf8Elements.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/bin/Debug/net6.0/Example043_arrayOf8Elements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/bin/Debug/net6.0/Example043_arrayOf8Elements.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/refint/Example043_arrayOf8Elements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/Example043_arrayOf8Elements.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example043_arrayOf8Elements/obj/Debug/net6.0/ref/Example043_arrayOf8Elements.dll

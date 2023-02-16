@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/bin/Debug/net6.0/Example041_ApowB
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/bin/Debug/net6.0/Example041_ApowB.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/bin/Debug/net6.0/Example041_ApowB.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/bin/Debug/net6.0/Example041_ApowB.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/bin/Debug/net6.0/Example041_ApowB.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/refint/Example041_ApowB.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/Example041_ApowB.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example041_ApowB/obj/Debug/net6.0/ref/Example041_ApowB.dll
