@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/bin/Debug/net6.0/Example040_outputArrayWith8Elements
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/bin/Debug/net6.0/Example040_outputArrayWith8Elements.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/bin/Debug/net6.0/Example040_outputArrayWith8Elements.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/bin/Debug/net6.0/Example040_outputArrayWith8Elements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/bin/Debug/net6.0/Example040_outputArrayWith8Elements.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/refint/Example040_outputArrayWith8Elements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/Example040_outputArrayWith8Elements.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example040_outputArrayWith8Elements/obj/Debug/net6.0/ref/Example040_outputArrayWith8Elements.dll
