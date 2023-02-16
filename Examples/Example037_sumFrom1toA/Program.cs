@@ -13,4 +13,4 @@ Console.Clear();
 Console.Write("Write a number: ");
 int N = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine($"Sum from 1 to {N} equil to {GetSum(N)}");
+Console.WriteLine($"Sum from 1 to {N} equals to {GetSum(N)}");
