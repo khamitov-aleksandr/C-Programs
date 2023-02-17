@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/bin/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/bin/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/bin/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/bin/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/bin/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/refint/Example044_sumOfNegativeAndPositiveArrayElements.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/Example044_sumOfNegativeAndPositiveArrayElements.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example044_sumOfNegativeAndPositiveArrayElements/obj/Debug/net6.0/ref/Example044_sumOfNegativeAndPositiveArrayElements.dll

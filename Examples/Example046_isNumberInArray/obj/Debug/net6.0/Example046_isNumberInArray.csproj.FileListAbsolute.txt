@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/bin/Debug/net6.0/Example046_isNumberInArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/bin/Debug/net6.0/Example046_isNumberInArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/bin/Debug/net6.0/Example046_isNumberInArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/bin/Debug/net6.0/Example046_isNumberInArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/bin/Debug/net6.0/Example046_isNumberInArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/refint/Example046_isNumberInArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/Example046_isNumberInArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example046_isNumberInArray/obj/Debug/net6.0/ref/Example046_isNumberInArray.dll

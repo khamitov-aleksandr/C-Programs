@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/bin/Debug/net6.0/Example047_segmentOfArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/bin/Debug/net6.0/Example047_segmentOfArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/bin/Debug/net6.0/Example047_segmentOfArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/bin/Debug/net6.0/Example047_segmentOfArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/bin/Debug/net6.0/Example047_segmentOfArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/refint/Example047_segmentOfArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/Example047_segmentOfArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example047_segmentOfArray/obj/Debug/net6.0/ref/Example047_segmentOfArray.dll

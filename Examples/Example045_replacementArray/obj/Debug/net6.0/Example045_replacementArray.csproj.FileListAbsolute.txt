@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/bin/Debug/net6.0/Example045_replacementArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/bin/Debug/net6.0/Example045_replacementArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/bin/Debug/net6.0/Example045_replacementArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/bin/Debug/net6.0/Example045_replacementArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/bin/Debug/net6.0/Example045_replacementArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/refint/Example045_replacementArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/Example045_replacementArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example045_replacementArray/obj/Debug/net6.0/ref/Example045_replacementArray.dll
