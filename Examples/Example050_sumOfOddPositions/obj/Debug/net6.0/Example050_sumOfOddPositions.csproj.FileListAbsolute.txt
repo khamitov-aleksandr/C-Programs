@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/bin/Debug/net6.0/Example050_sumOfOddPositions
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/bin/Debug/net6.0/Example050_sumOfOddPositions.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/bin/Debug/net6.0/Example050_sumOfOddPositions.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/bin/Debug/net6.0/Example050_sumOfOddPositions.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/bin/Debug/net6.0/Example050_sumOfOddPositions.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/refint/Example050_sumOfOddPositions.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/Example050_sumOfOddPositions.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example050_sumOfOddPositions/obj/Debug/net6.0/ref/Example050_sumOfOddPositions.dll

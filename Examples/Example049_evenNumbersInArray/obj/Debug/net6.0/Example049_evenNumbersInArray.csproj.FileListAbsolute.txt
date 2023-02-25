@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/bin/Debug/net6.0/Example049_evenNumbersInArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/bin/Debug/net6.0/Example049_evenNumbersInArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/bin/Debug/net6.0/Example049_evenNumbersInArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/bin/Debug/net6.0/Example049_evenNumbersInArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/bin/Debug/net6.0/Example049_evenNumbersInArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/refint/Example049_evenNumbersInArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/Example049_evenNumbersInArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example049_evenNumbersInArray/obj/Debug/net6.0/ref/Example049_evenNumbersInArray.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/bin/Debug/net6.0/Example051_diffBetwenMaxAndMin
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/bin/Debug/net6.0/Example051_diffBetwenMaxAndMin.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/bin/Debug/net6.0/Example051_diffBetwenMaxAndMin.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/bin/Debug/net6.0/Example051_diffBetwenMaxAndMin.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/bin/Debug/net6.0/Example051_diffBetwenMaxAndMin.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/refint/Example051_diffBetwenMaxAndMin.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/Example051_diffBetwenMaxAndMin.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example051_diffBetwenMaxAndMin/obj/Debug/net6.0/ref/Example051_diffBetwenMaxAndMin.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example050_sumOfOddPositions/1.0.0": {
+        "runtime": {
+          "Example050_sumOfOddPositions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example050_sumOfOddPositions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
