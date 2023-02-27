@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/bin/Debug/net6.0/Example053_IsTriangleExists
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/bin/Debug/net6.0/Example053_IsTriangleExists.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/bin/Debug/net6.0/Example053_IsTriangleExists.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/bin/Debug/net6.0/Example053_IsTriangleExists.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/bin/Debug/net6.0/Example053_IsTriangleExists.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/refint/Example053_IsTriangleExists.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/Example053_IsTriangleExists.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example053_IsTriangleExists/obj/Debug/net6.0/ref/Example053_IsTriangleExists.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/bin/Debug/net6.0/Example054_decimalToBinary
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/bin/Debug/net6.0/Example054_decimalToBinary.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/bin/Debug/net6.0/Example054_decimalToBinary.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/bin/Debug/net6.0/Example054_decimalToBinary.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/bin/Debug/net6.0/Example054_decimalToBinary.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/refint/Example054_decimalToBinary.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/Example054_decimalToBinary.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example054_decimalToBinary/obj/Debug/net6.0/ref/Example054_decimalToBinary.dll

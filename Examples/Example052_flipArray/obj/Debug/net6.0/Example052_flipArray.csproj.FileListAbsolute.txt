@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/bin/Debug/net6.0/Example052_flipArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/bin/Debug/net6.0/Example052_flipArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/bin/Debug/net6.0/Example052_flipArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/bin/Debug/net6.0/Example052_flipArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/bin/Debug/net6.0/Example052_flipArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/refint/Example052_flipArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/Example052_flipArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example052_flipArray/obj/Debug/net6.0/ref/Example052_flipArray.dll
