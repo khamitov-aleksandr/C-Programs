@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/bin/Debug/net6.0/Example055_firstNFibonacciNumbers
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/bin/Debug/net6.0/Example055_firstNFibonacciNumbers.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/bin/Debug/net6.0/Example055_firstNFibonacciNumbers.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/bin/Debug/net6.0/Example055_firstNFibonacciNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/bin/Debug/net6.0/Example055_firstNFibonacciNumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/refint/Example055_firstNFibonacciNumbers.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/Example055_firstNFibonacciNumbers.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example055_firstNFibonacciNumbers/obj/Debug/net6.0/ref/Example055_firstNFibonacciNumbers.dll
