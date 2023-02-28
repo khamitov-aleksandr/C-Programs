@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/bin/Debug/net6.0/Example058_intersectionPointOfTwoLines
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/bin/Debug/net6.0/Example058_intersectionPointOfTwoLines.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/bin/Debug/net6.0/Example058_intersectionPointOfTwoLines.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/bin/Debug/net6.0/Example058_intersectionPointOfTwoLines.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/bin/Debug/net6.0/Example058_intersectionPointOfTwoLines.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/refint/Example058_intersectionPointOfTwoLines.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/Example058_intersectionPointOfTwoLines.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example058_intersectionPointOfTwoLines/obj/Debug/net6.0/ref/Example058_intersectionPointOfTwoLines.dll

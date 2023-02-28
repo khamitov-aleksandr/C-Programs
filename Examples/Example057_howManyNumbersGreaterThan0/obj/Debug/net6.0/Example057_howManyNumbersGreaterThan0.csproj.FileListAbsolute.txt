@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/bin/Debug/net6.0/Example057_howManyNumbersGreaterThan0
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/bin/Debug/net6.0/Example057_howManyNumbersGreaterThan0.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/bin/Debug/net6.0/Example057_howManyNumbersGreaterThan0.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/bin/Debug/net6.0/Example057_howManyNumbersGreaterThan0.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/bin/Debug/net6.0/Example057_howManyNumbersGreaterThan0.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/refint/Example057_howManyNumbersGreaterThan0.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/Example057_howManyNumbersGreaterThan0.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example057_howManyNumbersGreaterThan0/obj/Debug/net6.0/ref/Example057_howManyNumbersGreaterThan0.dll
