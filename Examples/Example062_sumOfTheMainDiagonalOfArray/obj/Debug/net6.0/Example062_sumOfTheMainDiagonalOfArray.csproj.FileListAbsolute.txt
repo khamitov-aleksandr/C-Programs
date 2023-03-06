@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/bin/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/bin/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/bin/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/bin/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/bin/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/refint/Example062_sumOfTheMainDiagonalOfArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/Example062_sumOfTheMainDiagonalOfArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example062_sumOfTheMainDiagonalOfArray/obj/Debug/net6.0/ref/Example062_sumOfTheMainDiagonalOfArray.dll

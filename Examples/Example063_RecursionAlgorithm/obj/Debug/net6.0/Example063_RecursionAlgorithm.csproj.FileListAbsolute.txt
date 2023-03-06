@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/bin/Debug/net6.0/Example063_RecursionAlgorithm
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/bin/Debug/net6.0/Example063_RecursionAlgorithm.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/bin/Debug/net6.0/Example063_RecursionAlgorithm.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/bin/Debug/net6.0/Example063_RecursionAlgorithm.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/bin/Debug/net6.0/Example063_RecursionAlgorithm.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/refint/Example063_RecursionAlgorithm.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/Example063_RecursionAlgorithm.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example063_RecursionAlgorithm/obj/Debug/net6.0/ref/Example063_RecursionAlgorithm.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/bin/Debug/net6.0/Example059_twoDimensionalArray
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/bin/Debug/net6.0/Example059_twoDimensionalArray.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/bin/Debug/net6.0/Example059_twoDimensionalArray.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/bin/Debug/net6.0/Example059_twoDimensionalArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/bin/Debug/net6.0/Example059_twoDimensionalArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/refint/Example059_twoDimensionalArray.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/Example059_twoDimensionalArray.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example059_twoDimensionalArray/obj/Debug/net6.0/ref/Example059_twoDimensionalArray.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example060_twoDimensionalArrayFilledAccordingToTheFormula/1.0.0": {
+        "runtime": {
+          "Example060_twoDimensionalArrayFilledAccordingToTheFormula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example060_twoDimensionalArrayFilledAccordingToTheFormula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
