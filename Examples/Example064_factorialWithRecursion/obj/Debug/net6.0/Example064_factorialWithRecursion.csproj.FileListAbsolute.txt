@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/bin/Debug/net6.0/Example064_factorialWithRecursion
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/bin/Debug/net6.0/Example064_factorialWithRecursion.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/bin/Debug/net6.0/Example064_factorialWithRecursion.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/bin/Debug/net6.0/Example064_factorialWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/bin/Debug/net6.0/Example064_factorialWithRecursion.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/refint/Example064_factorialWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/Example064_factorialWithRecursion.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example064_factorialWithRecursion/obj/Debug/net6.0/ref/Example064_factorialWithRecursion.dll

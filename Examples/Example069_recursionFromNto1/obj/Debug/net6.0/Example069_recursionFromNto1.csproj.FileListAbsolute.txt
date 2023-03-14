@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/bin/Debug/net6.0/Example069_recursionFromNto1
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/bin/Debug/net6.0/Example069_recursionFromNto1.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/bin/Debug/net6.0/Example069_recursionFromNto1.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/bin/Debug/net6.0/Example069_recursionFromNto1.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/bin/Debug/net6.0/Example069_recursionFromNto1.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/refint/Example069_recursionFromNto1.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/Example069_recursionFromNto1.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example069_recursionFromNto1/obj/Debug/net6.0/ref/Example069_recursionFromNto1.dll

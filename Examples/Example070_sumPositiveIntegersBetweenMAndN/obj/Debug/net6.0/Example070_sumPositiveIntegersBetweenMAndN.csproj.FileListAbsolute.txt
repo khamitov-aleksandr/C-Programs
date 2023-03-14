@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/bin/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/bin/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/bin/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/bin/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/bin/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/refint/Example070_sumPositiveIntegersBetweenMAndN.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/Example070_sumPositiveIntegersBetweenMAndN.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example070_sumPositiveIntegersBetweenMAndN/obj/Debug/net6.0/ref/Example070_sumPositiveIntegersBetweenMAndN.dll

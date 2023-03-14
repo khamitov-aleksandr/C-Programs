@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/bin/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/bin/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/bin/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/bin/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/bin/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/refint/Example067_sumOfNumbersFrom1toNWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/Example067_sumOfNumbersFrom1toNWithRecursion.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example067_sumOfNumbersFrom1toNWithRecursion/obj/Debug/net6.0/ref/Example067_sumOfNumbersFrom1toNWithRecursion.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/bin/Debug/net6.0/Example065_FibonacciNumbersWithRecursion
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/bin/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.deps.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/bin/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.runtimeconfig.json
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/bin/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/bin/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.csproj.AssemblyReference.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.AssemblyInfoInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.AssemblyInfo.cs
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.csproj.CoreCompileInputs.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/refint/Example065_FibonacciNumbersWithRecursion.dll
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.pdb
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/Example065_FibonacciNumbersWithRecursion.genruntimeconfig.cache
+/Users/aleksandrkhamitov/Desktop/WT/GB/C#/Examples/Example065_FibonacciNumbersWithRecursion/obj/Debug/net6.0/ref/Example065_FibonacciNumbersWithRecursion.dll
